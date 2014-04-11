@@ -1,0 +1,3 @@
+;disable auto save
+(set backup-inhibited t)
+
