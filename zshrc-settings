@@ -79,4 +79,5 @@ export PATH="/Users/qilinwang/.pyenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export LANG="en_US.UTF-8"
-##trytry
+
+export JAVA_HOME=/System/Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/
