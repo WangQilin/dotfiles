@@ -1,0 +1,10 @@
+syntax on
+set autoindent
+set cindent
+set nu
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set noexpandtab
+set scrolloff=4
+set cursorline
