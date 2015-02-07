@@ -6,7 +6,8 @@ set number
 set tabstop=4 
 set softtabstop=4
 set shiftwidth=4
-set noexpandtab
+set ts=4
+set expandtab
 set scrolloff=4
 set cursorline
 set encoding=utf-8
